@@ -7,6 +7,10 @@ Deep Learning, Machien Learning에 관심이 있습니다.
 
 - 생년월일 : 1993.11.22
 
+- Email : hnefa335@gmail.com
+
+- Blog : https://heeyoung-alldata.tistory.com/
+
 - 학력 
   - 단국대학교 죽전캠퍼스 응용통계학과(2018.2 졸업)
   - 단국대학교 죽전캠퍼스 데이터 사이언스 학과(2020.9 ~ 2022.8 졸업 예정)
