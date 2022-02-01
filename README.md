@@ -35,6 +35,7 @@ Deep Learning, Machien Learning에 관심이 있습니다.
 <br />
 
 - 데이터 경진대회
+  - Dacon Nickname : 3중대 3소대장
 <br />
 
 |            |대회명|Task|등수|기간|주관|
