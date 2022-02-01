@@ -23,3 +23,10 @@
 
 - 데이터 경진대회
 
+|            |대회명|Task|등수|기간|주관|
+|------------|-----------|-----------|--------------|--------------|
+1            | 소설 작가 분류 AI 경진대회 | NLP (Sentence Classification) | 24/287 (상위 10%) | 20.10.29 ~ 20.12.04  | Dacon
+2            | 카메라 이미지 품질 향상 AI 경진대회 | Computer Vision (Image Enhancement) | 73/228 (상위 30%)  | 21.06.28 ~ 21.08.02 | Dacon
+3            | 병변 검출 AI 경진대회 | Computer Vision (Object Detection) | 32/250 (상위 11%) | 21.11.15 ~ 21.12.06  | Dacon
+4            | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 | Computer Vision (Image Classification) | 진행중 | 22.01.12 ~ 22.02.04 | Dacon
+
