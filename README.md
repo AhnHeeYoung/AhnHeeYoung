@@ -1,4 +1,5 @@
 안녕하세요 ^^
+Deep Learning, Machien Learning에 관심이 있습니다.
 
 
 
