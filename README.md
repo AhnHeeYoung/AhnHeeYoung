@@ -1,16 +1,13 @@
-### Hi there 👋
+이름 : 안희영
+생년월일 : 1993.11.22
 
-<!--
-**AhnHeeYoung/AhnHeeYoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+학력 : 단국대학교 죽전캠퍼스 응용통계학과(2018.2 졸업)
+       단국대학교 죽전캠퍼스 데이터 사이언스 학과(2020.9 ~ 2022.8 졸업 예정)     
 
-Here are some ideas to get you started:
+관심분야 : Deep Learning(CV), Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+경력 : Arontier 프리랜서 (2020.11 ~ 2021.12)
+       Arontier 연구원  (2022.1 ~ )
+       
+
+
