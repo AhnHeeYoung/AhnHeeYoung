@@ -1,9 +1,9 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Artificial Intelligence-75FA04?style=flat-square&logo=zz&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Computer Science-75FA04?style=flat-square&logo=zz&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Machine Learning-75FA04?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Artificial Intelligence-03FDBB?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Computer Science-03FDBB?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Machine Learning-03FDBB?style=flat-square&logo=zz&logoColor=black"/></a>
 
 안녕하세요 ^^
 <br />
