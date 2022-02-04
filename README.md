@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Artificial Intelligence-FA7404?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Artificial Intelligence-04FA63?style=flat-square&logo=zz&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Computer Science-FA7404?style=flat-square&logo=zz&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Machine Learning-FA7404?style=flat-square&logo=zz&logoColor=black"/></a>
 
