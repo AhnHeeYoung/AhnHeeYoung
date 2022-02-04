@@ -1,6 +1,6 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/AhnHeeYoung-3766AB?style=flat-square&logo=zz&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/AhnHeeYoung-4000AB?style=flat-square&logo=zz&logoColor=black"/></a>
 
 안녕하세요 ^^
 <br />
