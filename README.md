@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/AhnHeeYoung-4000AB?style=flat-square&logo=zz&logoColor=black"/></a>
 
