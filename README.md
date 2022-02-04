@@ -7,7 +7,7 @@
 
 안녕하세요 ^^
 <br />
-Deep Learning, Machien Learning에 관심이 있습니다.
+Deep Learning, Machine Learning에 관심이 있습니다.
 
 
 
