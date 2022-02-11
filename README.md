@@ -32,8 +32,8 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 <br />
 
 - 경력 
+  - Arontier 연구원   (2022.1 ~ )
   - Arontier 프리랜서 (2020.11 ~ 2021.12)
-  - Arontier 연구원  (2022.1 ~ )
 <br />
 
 - 기타사항
