@@ -41,7 +41,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
   - 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역)
 <br />
 
-- 데이터 경진대회
+- Challenge
   - Dacon Nickname : 3중대 3소대장
 <br />
 
@@ -51,5 +51,5 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 2            | 카메라 이미지 품질 향상 AI 경진대회 | Computer Vision (Image Enhancement) | [73/228 (상위 30%)](https://dacon.io/competitions/official/235746/leaderboard)  | 21.06.28 ~ 21.08.02 | Dacon
 3            | 병변 검출 AI 경진대회 | Computer Vision (Object Detection) | [32/250 (상위 11%)](https://dacon.io/competitions/official/235855/leaderboard) | 21.11.15 ~ 21.12.06  | Dacon
 4            | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 | Computer Vision (Image Classification) | [3/344 (상위 1%)](https://dacon.io/competitions/official/235870/leaderboard) | 22.01.12 ~ 22.02.04 | Dacon
-5            | CoNIC-Challenge | Computer Vision (Nuclear Instance Segmentation) | [6/26 (Task1), 7/24 (Task2)](https://conic-challenge.grand-challenge.org/evaluation/segmentation-and-classification-final-test/leaderboard/) | 21.11.20 ~ 22.03.06 | Grand-Challenge
+5            | CoNIC-Challenge([preprint](https://www.biorxiv.org/content/10.1101/2022.03.02.482203v1.full.pdf)) | Computer Vision (Nuclear Instance Segmentation) | [6/26 (Task1), 7/24 (Task2)](https://conic-challenge.grand-challenge.org/evaluation/segmentation-and-classification-final-test/leaderboard/) | 21.11.20 ~ 22.03.06 | Grand-Challenge
 
