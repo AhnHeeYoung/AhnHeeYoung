@@ -32,7 +32,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 <br />
 
 - 경력 
-  - Arontier 연구원   (2022.1 ~ )
+  - Arontier 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )
   - Arontier 프리랜서 (2020.11 ~ 2021.12)
 <br />
 
