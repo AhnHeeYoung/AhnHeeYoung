@@ -25,9 +25,9 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 --              | Email : hnefa335@gmail.com |
 --              | Blog : https://heeyoung-alldata.tistory.com |
 <br />
+<br />
 
-
-<Challenge>
+Challenge
 
 - Dacon Nickname : 3중대 3소대장
 <br />
