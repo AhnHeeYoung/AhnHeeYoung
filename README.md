@@ -27,8 +27,9 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 <br />
 
 
-**<Challenge>**
-  - Dacon Nickname : 3중대 3소대장
+<Challenge>
+
+- Dacon Nickname : 3중대 3소대장
 <br />
 
 |            |대회명|Task|등수|기간|주관|
