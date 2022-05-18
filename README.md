@@ -9,54 +9,21 @@
 <br />
 Deep Learning, Machine Learning에 관심이 있습니다.
 
-
-
-- 이름 : 안희영
-<br />
-
-- 생년월일 : 1993.11.22
-<br />
-
-- Email : hnefa335@gmail.com
-<br />
-
-- Blog : https://heeyoung-alldata.tistory.com/
-<br />
-
-- 학력 
-  - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업)
-  - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8 졸업 예정)
-<br />
-
-- 관심분야 : Deep Learning(CV), Machine Learning
-<br />
-
-- 경력 
-  - Arontier 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )
-  - Arontier 프리랜서 (2020.11 ~ 2021.12)
-<br />
-
-- 기타사항
-  - 거주지 : 서울 송파구
-  - 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역)
-<br />
-
-
-
-|            |-|
+**<소개>**
+|      --      |--|
 |------------|-----------|
-이름            | 안희영
-생년월일        | 1993.11.22 |
-Email           | hnefa335@gmail.com |
-Blog            | https://heeyoung-alldata.tistory.com |
-학력            |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업)
+**이름**            | 안희영
+**생년월일**        | 1993.11.22 |
+**Email**           | hnefa335@gmail.com |
+**Blog**            | https://heeyoung-alldata.tistory.com |
+**학력**            |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업)
 --              |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8 졸업 예정) |
-경력            |   - Arontier 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
+**경력**            |   - Arontier 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
 --              |   - Arontier 프리랜서 (2020.11 ~ 2021.12) |
-관심분야        | Deep Learning(CV), Machine Learning |
-기타사항        | 거주지 : 서울 송파구 |
+**관심분야**        | Deep Learning(CV), Machine Learning |
+**기타사항**        | 거주지 : 서울 송파구 |
 --              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
-
+<br />
 
 
 - Challenge
