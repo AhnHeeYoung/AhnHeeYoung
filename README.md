@@ -49,8 +49,10 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 생년월일            | 1993.11.22 |
 Email            | hnefa335@gmail.com |
 Blog            | [농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://heeyoung-alldata.tistory.com/) |
-학력            |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업)
-                    - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8 졸업 예정) |
+학력            |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
+  -             |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8 졸업 예정) |
+                    
+                    
 관심분야            | Deep Learning(CV), Machine Learning |
 
 
