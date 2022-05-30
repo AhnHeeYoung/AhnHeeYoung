@@ -4,10 +4,13 @@
 <img src="https://img.shields.io/badge/Artificial Intelligence-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Computer Science-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Machine Learning-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
+<br />
+<br />
 
 안녕하세요 ^^
 <br />
 Deep Learning, Machine Learning에 관심이 있습니다.
+<br />
 <br />
 <br />
 
