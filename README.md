@@ -23,7 +23,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 **생년월일**        | 1993.11.22 |
 **경력**            |   - Arontier 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
 --              |   - Arontier 프리랜서 (2020.11 ~ 2021.12) |
-**Project (논문)**            |   - [CLASS-CONTROLLING COPY–PASTE AUGMENTATION FOR NUCLEAR SEGMENTATION](https://github.com/AhnHeeYoung/Competition/blob/master/Grand-Challenge-CoNIC/CLASS-CONTROLLING%20COPY%E2%80%93PASTE%20AUGMENTATION.pdf)
+**Project (논문)**            |   [CLASS-CONTROLLING COPY–PASTE AUGMENTATION FOR NUCLEAR SEGMENTATION](https://github.com/AhnHeeYoung/Competition/blob/master/Grand-Challenge-CoNIC/CLASS-CONTROLLING%20COPY%E2%80%93PASTE%20AUGMENTATION.pdf)
 --              |   ICIscore(Cell Detection) |
 --              |   TMEscore(Image Registration & GAN) |
 --              |   eLNMscore(Tissue Segmentation) |
