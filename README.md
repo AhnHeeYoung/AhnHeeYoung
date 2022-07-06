@@ -32,7 +32,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 **관심분야**        | Deep Learning, Machine Learning |
 **기타사항**        | 거주지 : 서울 송파구 |
 --              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
---              | 관심분야 : CS(Computer Science), Deep Learning(Computer Vision), Machine Learning |
+--              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
 --              | Email : hnefa335@gmail.com |
 --              | Blog : https://heeyoung-alldata.tistory.com |
 <br />
