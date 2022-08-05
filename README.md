@@ -39,23 +39,23 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 <br />
 
 
-|:-------:|:-------:|
-**이름**            | 안희영
-**생년월일**        | 1993.11.22 |
-**경력**            |   - (주)아론티어 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
---              |   - (주)아론티어 프리랜서 (2020.11 ~ 2021.12) |
-**Project**            |   CoNIC ([논문](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) (Task : Cell Instance Segmentaiton, Challenge-Paper)
---              |   [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) (Task : Cell Detection, 회사 project) |
---              |   [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) (Task : Image Registration & GAN, 회사 project) |
---              |   [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) (Task : Tissue Segmentation, 회사 project) |
-**학력**            |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8)
---              |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
-**관심분야**        | Deep Learning, Machine Learning |
-**기타사항**        | 거주지 : 서울 송파구 |
---              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
---              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
---              | Email : hnefa335@gmail.com |
---              | Blog : https://heeyoung-alldata.tistory.com |
+
+|**이름**            | 안희영|
+|**생년월일**        | 1993.11.22 |
+|**경력**            |   - (주)아론티어 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
+|--              |   - (주)아론티어 프리랜서 (2020.11 ~ 2021.12) |
+|**Project**            |   CoNIC ([논문](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) (Task : Cell Instance Segmentaiton, Challenge-Paper)
+|--              |   [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) (Task : Cell Detection, 회사 project) |
+|--              |   [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) (Task : Image Registration & GAN, 회사 project) |
+|--              |   [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) (Task : Tissue Segmentation, 회사 project) |
+|**학력**            |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8)
+|--              |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
+|**관심분야**        | Deep Learning, Machine Learning |
+|**기타사항**        | 거주지 : 서울 송파구 |
+|--              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
+|--              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
+|--              | Email : hnefa335@gmail.com |
+|--              | Blog : https://heeyoung-alldata.tistory.com |
 <br />
 <br />
 
