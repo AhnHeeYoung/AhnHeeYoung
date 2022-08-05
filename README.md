@@ -23,7 +23,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 **생년월일**        | 1993.11.22 |
 **경력**            |   - (주)아론티어 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
 --              |   - (주)아론티어 프리랜서 (2020.11 ~ 2021.12) |
-**Project**            |   CoNIC ([논문]((https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf))) (Task : Cell Instance Segmentaiton, Challenge-Paper)
+**Project**            |   CoNIC ([논문](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) (Task : Cell Instance Segmentaiton, Challenge-Paper)
 --              |   ICIscore (Task : Cell Detection, 회사 project) |
 --              |   TMEscore (Task : Image Registration & GAN, 회사 project) |
 --              |   eLNMscore (Task : Tissue Segmentation, 회사 project) |
