@@ -41,7 +41,30 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 
 
 
-## 2. Challenge
+## 2. Projects
+<br />
+- Dacon Nickname : 3중대 3소대장   
+<br />
+- Grand-Challenge Nickname : Arontier   
+<br />
+<br />
+
+|            |Project|Date|기관|
+|------------|-----------|-----------|--------------|
+1            | 소설 작가 분류 AI 경진대회| NLP (Sentence Classification) |
+2            | 카메라 이미지 품질 향상 AI 경진대회 | Computer Vision (Image Enhancement) |
+3            | 병변 검출 AI 경진대회 [(Code)](https://github.com/AhnHeeYoung/Competition/tree/master/Dacon-%EB%B3%91%EB%B3%80%EA%B2%80%EC%B6%9C) | Computer Vision (Object Detection) |
+4            | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 [(Code)](https://github.com/AhnHeeYoung/Competition/tree/master/Dacon-%EC%9E%91%EB%AC%BC%EB%B3%91%ED%95%B4%EC%A7%84%EB%8B%A8), [(Docker)](https://hub.docker.com/r/hnefa335/lg-crops-disease) | Computer Vision (Image Classification) |
+5            | CoNIC-Challenge [(Paper)](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf), [(Code)](https://github.com/AhnHeeYoung/Competition/tree/master/GrandChallenge-CoNIC), [(Docker)](https://hub.docker.com/r/hnefa335/conic-inference)  | Computer Vision (Nuclear Instance Segmentation) |
+6            | Computer Vision 이상치 탐지 알고리즘 경진대회 [(Code)](https://github.com/AhnHeeYoung/Competition/tree/master/Dacon-%EC%9D%B4%EC%83%81%EC%B9%98%20%ED%83%90%EC%A7%80), [(Docker)](https://hub.docker.com/r/hnefa335/dacon_anomaly) | Computer Vision (Image Classification) |
+7            | 따릉이 대여량 예측 AI 경진대회 [(Code)](https://github.com/AhnHeeYoung/Competition/tree/master/Dacon-Darreung) | Machine Learning (Regression) |
+
+
+
+
+
+
+## 3. Challenge
 <br />
 - Dacon Nickname : 3중대 3소대장   
 <br />
