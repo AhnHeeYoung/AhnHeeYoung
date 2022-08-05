@@ -27,7 +27,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 --              |   [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) (Task : Cell Detection, 회사 project) |
 --              |   [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) (Task : Image Registration & GAN, 회사 project) |
 --              |   [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) (Task : Tissue Segmentation, 회사 project) |
-**학력**            |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8 졸업 예정)
+**학력**            |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8)
 --              |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
 **관심분야**        | Deep Learning, Machine Learning |
 **기타사항**        | 거주지 : 서울 송파구 |
