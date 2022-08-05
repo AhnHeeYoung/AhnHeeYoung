@@ -32,9 +32,6 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 --              | Email : hnefa335@gmail.com |
 --              | Blog : https://heeyoung-alldata.tistory.com |
 <br />
-<br />
-
-
 
 
 ## 2. Projects (or Paper)
@@ -46,9 +43,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 3            | [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) | 2021.07 ~ ing | Arontier & Samsung Medical Center |
 4            | [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) | 2021.07 ~ ing | Arontier & Samsung Medical Center |
 
-
-
-
+<br />
 
 
 
