@@ -48,7 +48,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 ## 3. Challenge
 <br />
 
-**아이디**
+**Nickname**
 
 - 3중대 3소대장 (Dacon, AIFactory)
 - Arontier (Grand-Challenge)
