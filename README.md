@@ -44,7 +44,7 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 
 <br />
 
-
+**이름**
 
 ## 3. Challenge
 <br />
