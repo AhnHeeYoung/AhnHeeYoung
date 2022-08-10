@@ -28,7 +28,7 @@
 <br />
 
 
-## 2. Projects (or Paper)
+## 2. Projects or Paper
 
 |            |Project|Date|Task|기관|
 |------------|-----------|-----------|--------------|--------------|
