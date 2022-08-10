@@ -44,7 +44,7 @@
 **Nickname :**
 
 - 3중대 3소대장 (Dacon, AIFactory)
-- Arontier (Grand-Challenge)
+- Arontier (Grand Challenge)
 
 <br />
 
