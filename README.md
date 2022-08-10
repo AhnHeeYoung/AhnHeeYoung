@@ -21,6 +21,7 @@
 .              |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
 **기타사항**        | 거주지 : 서울 송파구 |
 .              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
+.              | 기술스택 : Python, Docker, R |
 .              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
 .              | Email : hnefa335@gmail.com |
 .              | Blog : https://heeyoung-alldata.tistory.com |
