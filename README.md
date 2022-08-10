@@ -8,12 +8,6 @@
 <br />
 <br />
 
-안녕하세요 ^^
-<br />
-Deep Learning, Machine Learning에 관심이 있습니다.
-<br />
-<br />
-<br />
 
 ## 1. Introduction
 
