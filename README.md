@@ -8,8 +8,6 @@
 <br />
 <br />
 
-<span style="color:red">red</span>
-
 안녕하세요 ^^
 <br />
 Deep Learning, Machine Learning에 관심이 있습니다.
