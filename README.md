@@ -22,14 +22,14 @@ Deep Learning, Machine Learning에 관심이 있습니다.
 **이름**            | 안희영
 **생년월일**        | 1993.11.22 |
 **경력**            |   - (주)아론티어 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
---              |   - (주)아론티어 프리랜서 (2020.11 ~ 2021.12) |
+.              |   - (주)아론티어 프리랜서 (2020.11 ~ 2021.12) |
 **학력**            |   - 단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8)
---              |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
+.              |   - 단국대학교 죽전캠퍼스 응용통계학과 (2018.2 졸업) |
 **기타사항**        | 거주지 : 서울 송파구 |
---              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
---              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
---              | Email : hnefa335@gmail.com |
---              | Blog : https://heeyoung-alldata.tistory.com |
+.              | 병역 : 군필 (2018.3 ~ 2020.6 rotc 중위 전역) |
+.              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
+.              | Email : hnefa335@gmail.com |
+.              | Blog : https://heeyoung-alldata.tistory.com |
 <br />
 
 
