@@ -31,10 +31,10 @@
 
 |            |Project|Date|Task|기관|
 |------------|-----------|-----------|--------------|--------------|
-1            | CoNIC ([논문](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) | 2021.08 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
-2            | [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) | 2021.09 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
-3            | [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) | 2021.09 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
-4            | [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) | 2021.09 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
+1            | [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) | 2021.06 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
+2            | [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) | 2021.06 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
+3            | [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) | 2021.06 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
+4            | CoNIC ([논문](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) | 2021.08 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
 
 <br />
 
