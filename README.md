@@ -40,7 +40,7 @@
 <br />
 
 
-## 3. Challenge
+## 3. Challenges
 
 **Nickname :**
 
