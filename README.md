@@ -30,7 +30,7 @@
 
 ## 2. Projects & Paper
 
-|            |Project|Date|Task|기관|
+|            |Project|Date|Task|Organization|
 |------------|-----------|-----------|--------------|--------------|
 1            | [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) (논문 예정) | 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
 2            | [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) | 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
@@ -49,7 +49,7 @@
 
 <br />
 
-|            |대회명|Task|등수|기간|주관|
+|            |Challenges|Task|Rank|Date|Organization|
 |------------|-----------|-----------|--------------|--------------|--------------|
 1            | 소설 작가 분류 AI 경진대회| NLP (Sentence Classification) | [24/287 (10%)](https://dacon.io/competitions/official/235670/leaderboard) | 20.10.29 ~ 20.12.04  | Dacon
 2            | 카메라 이미지 품질 향상 AI 경진대회 | Computer Vision      (Image Enhancement) | [73/228 (30%)](https://dacon.io/competitions/official/235746/leaderboard)  | 21.06.28 ~ 21.08.02 | LG (Dacon)
