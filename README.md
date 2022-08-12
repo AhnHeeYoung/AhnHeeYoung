@@ -30,7 +30,7 @@
 
 ## 2. Projects & Paper
 
-|            |Project|소개 및 담당업무|Date|Task|Organization|
+|            |Project|설명 & 담당업무|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
 1            | [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
 2            | [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore)| 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
