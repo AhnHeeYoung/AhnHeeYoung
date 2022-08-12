@@ -32,10 +32,10 @@
 
 |            |Project|설명 & 담당업무|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
-1            | [ICIscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
-2            | [TMEscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore)| 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
-3            | [eLNMscore](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
-4            | [CoNIC](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC) ([Paper](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2021.11 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
+1            | ICIscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
+2            | TMEscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore)| 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
+3            | eLNMscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
+4            | CoNIC ([Paper](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Paper%20edited.pdf)) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2021.11 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
 
 <br />
 
