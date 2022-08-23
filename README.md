@@ -42,7 +42,7 @@
 
 ## 3. Challenges
 
-''' Dacon Ranking : 20 th (updated 22.08.23) '''   
+``` Dacon Ranking : 20 th (updated 22.08.23) ```   
 
 **Nickname :**
 
