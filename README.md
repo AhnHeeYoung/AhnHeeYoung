@@ -30,6 +30,9 @@
 
 ## 2. Projects & Paper
 
+```진행하였던 Projects 목록과 논문을 정리하였습니다. ```
+``` Link를 클릭하시면 Project에 대한 자세한 설명을 보실 수 있습니다. ```
+
 |            |Project|설명|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
 1            | ICIscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
