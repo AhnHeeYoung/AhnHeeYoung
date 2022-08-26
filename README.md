@@ -53,6 +53,8 @@
 - 3중대 3소대장 (Dacon, AIFactory)
 - Arontier (Grand Challenge)
 
+
+``````  
 <br />
 
 |            |Challenges|Task|Rank|Date|Organization|상금(만원)|
