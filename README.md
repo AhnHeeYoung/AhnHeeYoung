@@ -56,8 +56,6 @@
 
 ``` Lists ```   
 
-<br />
-
 |            |Challenges|Task|Rank|Date|Organization|상금(만원)|
 |------------|-----------|-----------|--------------|--------------|--------------|--------------|
 1            | 소설 작가 분류 AI 경진대회| NLP (Sentence Classification) | [24/287 (10%)](https://dacon.io/competitions/official/235670/leaderboard) | 20.10.29 ~ 20.12.04  | Dacon | 100 |
