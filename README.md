@@ -28,6 +28,9 @@
 ```진행하였던 Projects와 Paper를 정리하였습니다. ```   
 ``` Link를 클릭하시면 Project에 대한 자세한 설명을 보실 수 있습니다. ```
 
+<br />
+
+### 2-1. Projects
 |            |Project|설명|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
 1            | ICIscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
@@ -35,6 +38,9 @@
 3            | eLNMscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
 4            | CoNIC ([Paper](https://ieeexplore.ieee.org/document/9854529)) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2021.11 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
 
+<br />
+
+### 2-2. Paper
 |            |Paper|설명|Publish Date|Task|Conference|
 |-------|------|---------------------|----------|--------|--------------|
 1            | ([Paper](https://ieeexplore.ieee.org/document/9854529)) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2022.08.17 | Cell Instance Segmentation | ISBI 2022 |
