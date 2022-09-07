@@ -64,7 +64,7 @@
 ``` Lists ```   
 
 |            |Challenges|Task|Rank|Date|Organization|상금(만원)|
-|------------|-----------|-----------|--------------|--------------|--------------|--------------|
+|:------------:|-----------|-----------|--------------|--------------|--------------|--------------|
 1            | 소설 작가 분류 AI 경진대회| NLP (Sentence Classification) | [24/287 (10%)](https://dacon.io/competitions/official/235670/leaderboard) | 20.10.29 ~ 20.12.04  | Dacon | 100 |
 2            | 카메라 이미지 품질 향상 AI 경진대회 | Computer Vision      (Image Enhancement) | [73/228 (30%)](https://dacon.io/competitions/official/235746/leaderboard)  | 21.06.28 ~ 21.08.02 | LG (Dacon) | 1000 |
 3            | 병변 검출 AI 경진대회 [(Code)](https://github.com/AhnHeeYoung/Competition/tree/master/Dacon-%EB%B3%91%EB%B3%80%EA%B2%80%EC%B6%9C) | Computer Vision (Object Detection) | [32/250 (11%)](https://dacon.io/competitions/official/235855/leaderboard) | 21.11.15 ~ 21.12.06  | NIA (Dacon) | 1000 |
