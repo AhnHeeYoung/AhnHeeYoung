@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&fontSize=100&desc=Ahn%20Hee%20Young&descAlignY=100&descAlign=80)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&fontSize=100&desc=Ahn%20Hee%20Young&descAlignY=50&descAlign=80)
 
 <br />
 
