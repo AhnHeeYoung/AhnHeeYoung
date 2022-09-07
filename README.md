@@ -4,7 +4,6 @@
 
 <br />
 
-<span style="color:red">붉은 색</span>
 
 ## 1. Introduction
 ```Deep, Machine Learning Project를 진행해왔으며 다수의 AI Challenges 참가를 통해 실력을 쌓아나가고 있습니다. ```   
