@@ -23,7 +23,7 @@
 .              | Blog : https://heeyoung-alldata.tistory.com |
 
 <br />
-
+<br />
 
 ## 2. Projects & Paper
 
@@ -48,7 +48,7 @@
 1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([PDF](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf)) |  Cell Instance Segmentation | ISBI 2022 | 1st Author |
 
 <br />
-
+<br />
 
 ## 3. Challenges
 
