@@ -1,15 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=Rect&text=%20Portfolio%20%20&height=200&fontSize=90&fontColor=d6ace6)
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Docker-3766AB?style=flat-square&logo=Docker&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/R-3766AB?style=flat-square&logo=R&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Artificial Intelligence-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Computer Science-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Machine Learning-0EF7AF?style=flat-square&logo=zz&logoColor=black"/></a>
-<br />
-<br />
 
 
 ## 1. Introduction
