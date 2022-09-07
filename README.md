@@ -41,9 +41,9 @@
 <br />
 
 ### 2-2. Paper
-|            |Paper|설명|Publish Date|Task|Conference|
+|            |Paper|Publish Date|Task|Conference|
 |-------|------|---------------------|----------|--------|--------------|
-1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2022.08.17 | Cell Instance Segmentation | ISBI 2022 |
+1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) | 2022.08.17 | Cell Instance Segmentation | ISBI 2022 |
 
 <br />
 
