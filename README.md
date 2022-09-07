@@ -35,6 +35,10 @@
 3            | eLNMscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
 4            | CoNIC ([Paper](https://ieeexplore.ieee.org/document/9854529)) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2021.11 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
 
+|            |Paper|설명|Publish Date|Task|Conference|
+|-------|------|---------------------|----------|--------|--------------|
+1            | ([Paper](https://ieeexplore.ieee.org/document/9854529)) |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2022.08.17 | Cell Instance Segmentation | ISBI 2022 |
+
 <br />
 
 
