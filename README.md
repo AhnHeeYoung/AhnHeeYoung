@@ -47,7 +47,7 @@
 ## 3. Challenges
 
 ``` Dacon Ranking```   
-- [20등](https://dacon.io/ranking) (updated 22.08.23)
+- [10등](https://dacon.io/ranking) (22.09.26 update 예정)
 
 ```Nickname```   
 
