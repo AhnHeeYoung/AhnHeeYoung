@@ -1,6 +1,6 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&fontSize=80&desc=Ahn%20Hee%20Young&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&fontSize=100&desc=Ahn%20Hee%20Young&descAlignY=75&descAlign=80)
 
-
+<br />
 
 ## 1. Introduction
 ```Deep, Machine Learning Project를 진행해왔으며 다수의 AI Challenges 참가를 통해 실력을 쌓아나가고 있습니다. ```   
