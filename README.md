@@ -43,7 +43,7 @@
 ### 2-2. Paper
 |            |Paper|Task|Conference|Author|
 |-------|------|---------|--------------|--------------|
-1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([pdf]((https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf))) |  Cell Instance Segmentation | ISBI 2022 | 1st Author |
+1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([pdf](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf)) |  Cell Instance Segmentation | ISBI 2022 | 1st Author |
 
 <br />
 
