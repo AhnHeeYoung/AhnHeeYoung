@@ -9,7 +9,7 @@
 ```Deep, Machine Learning Project를 진행해왔으며 다수의 AI Challenges 참가를 통해 실력을 쌓아나가고 있습니다. ```   
 
 |   .   | . |
-|------------|-----------|
+|:------------:|-----------|
 **이름**            | 안희영
 **생년월일**        | 1993.11.22 |
 **경력**            |   - (주)Arontier 주임연구원(Associate Scientist of Precision Diagnosis Team, 2022.1 ~ )   
