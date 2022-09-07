@@ -1,6 +1,6 @@
 <br />
 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&fontSize=90&desc=Ahn%20Hee%20Young&fontSize=90&descAlignY=75&descAlign=50)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&desc=Ahn%20Hee%20Young&fontSize=90&descAlignY=75&descAlign=50)
 
 <br />
 
