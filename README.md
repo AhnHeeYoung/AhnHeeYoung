@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=Rect&text=%20Portfolio%20%20&height=200&fontSize=90&fontColor=d6ace6)
-
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Portfolio&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
 
 
 
