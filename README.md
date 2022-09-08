@@ -30,7 +30,6 @@
 ```진행하였던 Projects와 Paper를 정리하였습니다. ```   
 ``` Link를 클릭하시면 Project에 대한 자세한 설명을 보실 수 있습니다. ```
 
-<br />
 
 ## 2-1. Projects
 |            |Project|설명|Date|Task|Organization|
