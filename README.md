@@ -25,14 +25,14 @@
 <br />
 <br />
 
-## 2. Projects & Paper
+# 2. Projects & Paper
 
 ```진행하였던 Projects와 Paper를 정리하였습니다. ```   
 ``` Link를 클릭하시면 Project에 대한 자세한 설명을 보실 수 있습니다. ```
 
 <br />
 
-### 2-1. Projects
+## 2-1. Projects
 |            |Project|설명|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
 1            | ICIscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
@@ -42,7 +42,7 @@
 
 <br />
 
-### 2-2. Paper
+## 2-2. Paper
 |            |Paper|Task|Conference|Author|
 |-------|------|---------|--------------|--------------|
 1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([PDF](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf)) |  Cell Instance Segmentation | ISBI 2022 | 1st Author |
@@ -50,7 +50,7 @@
 <br />
 <br />
 
-## 3. Challenges
+# 3. Challenges
 
 ``` Dacon Ranking```   
 - [10등](https://dacon.io/ranking) (22.09.26 update 예정)
