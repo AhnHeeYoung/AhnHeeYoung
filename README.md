@@ -60,7 +60,7 @@
 - Arontier (Grand Challenge)
 
 
-``` Lists ```   
+``` Challenge Lists ```   
 
 |            |Challenges|Task|Rank|Date|Organization|상금(만원)|
 |:------------:|-----------|-----------|--------------|--------------|--------------|--------------|
