@@ -5,7 +5,7 @@
 <br />
 
 # 1. Introduction
-```Deep, Machine Learning Project를 진행해왔으며 다수의 AI Challenges 참가를 통해 실력을 쌓아나가고 있습니다. ```   
+```Computer Vision Project를 진행해왔으며 다수의 ML/DL Challenges 참가를 통해 실력을 쌓아나가고 있습니다. ```   
 
 |   .   | . |
 |:------------:|-----------|
