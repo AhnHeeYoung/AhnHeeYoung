@@ -25,26 +25,26 @@
 <br />
 <br />
 
-# 2. Projects & Paper
+# 2. Paper & Projects
 
 ```진행하였던 Projects와 Paper를 정리하였습니다. ```   
 ``` Link를 클릭하시면 Project에 대한 자세한 설명을 보실 수 있습니다. ```
 
 
-## 2-1. Projects
+## 2-1. Paper
+|            |Paper|Task|Conference|Author|
+|-------|------|---------|--------------|--------------|
+1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([PDF](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf)) |  Cell Instance Segmentation | ISBI 2022 | 1st Author |
+
+<br />
+
+## 2-2. Projects
 |            |Project|설명|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
 1            | ICIscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
 2            | TMEscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore)| 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
 3            | eLNMscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
 4            | CoNIC |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2021.11 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
-
-<br />
-
-## 2-2. Paper
-|            |Paper|Task|Conference|Author|
-|-------|------|---------|--------------|--------------|
-1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([PDF](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf)) |  Cell Instance Segmentation | ISBI 2022 | 1st Author |
 
 <br />
 <br />
