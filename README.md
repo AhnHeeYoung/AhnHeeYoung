@@ -43,9 +43,9 @@
 ## 2-2. Projects
 |            |Project|설명|Date|Task|Organization|
 |-------|------|---------------------|----------|--------|--------------|
-1            | ICIscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
-2            | TMEscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore)| 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
-3            | eLNMscore |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
+1            | ICI 반응 예측 알고리즘 개발 |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/ICIscore)| 2021.01 ~ ing | Cell Detection | Arontier & Samsung Medical Center |
+2            | TSR, TIL 예측 알고리즘 개발 |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/TMEscore)| 2021.01 ~ ing | Image Registration & Generation | Arontier & Samsung Medical Center |
+3            | 조기위암 림프절 전이 예측 알고리즘 고도화 |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/eLNMscore)| 2021.01 ~ ing | Tissue Segmentation | Arontier & Samsung Medical Center  |
 4            | CoNIC |[Link](https://github.com/AhnHeeYoung/Projects-Arontier/tree/master/CoNIC)| 2021.11 ~ 2022.04 | Cell Instance Segmentation | Arontier & Samsung Medical Center |
 
 <br />
