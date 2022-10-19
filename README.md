@@ -54,7 +54,7 @@
 # 3. AI Challenges
 
 ``` Dacon Ranking```   
-- [15등](https://dacon.io/ranking) (0.11%, 22.09.28 update)
+- [12등](https://dacon.io/ranking) (0.11%)
 
 ```Nickname```   
 
