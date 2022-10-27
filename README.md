@@ -58,7 +58,7 @@
 
 | Input |
 |---|
-|![[https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG)]|
+|![https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG)]|
 
 ```Nickname```   
 
