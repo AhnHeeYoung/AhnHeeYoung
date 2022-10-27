@@ -56,6 +56,10 @@
 ``` Dacon Ranking```   
 - [12등](https://dacon.io/ranking) (상위 0.11%)
 
+| Input |
+|---|
+|![[https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG)]|
+
 ```Nickname```   
 
 - 3중대 3소대장 (Dacon, AIFactory)
