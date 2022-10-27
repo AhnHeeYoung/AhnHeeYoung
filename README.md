@@ -56,7 +56,7 @@
 ![https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Dacon.PNG)
 
 ``` Dacon Ranking```   
-- [12등](https://dacon.io/ranking) (상위 0.11%)
+- [12등](https://dacon.io/ranking) (상위 0.1%)
 
 
 
