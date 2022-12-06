@@ -11,7 +11,7 @@
 |:------------:|-----------|
 **이름**            | 안희영
 **생년월일**        | 1993.11.22 |
-**경력**            |   POSCO ICT (Deep earning Engineer, 2023.1 ~ )   
+**경력**            |   POSCO ICT (Deep Learning Engineer, 2023.1 ~ )   
 .              |   Arontier (Associate Scientist of Precision Diagnosis Team, 2022.1 ~ 2022.12) |
 .              |   Arontier (Freelancer of Precision Diagnosis Team, 2020.11 ~ 2021.12) |
 **학력**            |   단국대학교 죽전캠퍼스 일반대학원 데이터 사이언스 학과 (2020.9 ~ 2022.8)
