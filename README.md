@@ -19,7 +19,6 @@
 **기타사항**        | 거주지 : 서울 송파구 |
 .              | 병역 : 군필 (2018.3 ~ 2020.6 ROTC 중위 전역) |
 .              | 기술스택 : Python, Docker, R |
-.              | 관심분야 : Computer Science, Deep Learning, Machine Learning |
 .              | Email : hnefa335@gmail.com |
 .              | Blog : https://heeyoung-alldata.tistory.com |
 
