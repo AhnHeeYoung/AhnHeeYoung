@@ -35,7 +35,7 @@
 |            |Paper|Task|구분|Author|
 |-------|------|---------|--------------|--------------|
 1            | [Class-Controlling Copy-Paste Augmentation for Nuclear Segmentation](https://ieeexplore.ieee.org/document/9854529) ([PDF](https://github.com/AhnHeeYoung/Competition/blob/master/GrandChallenge-CoNIC/Paper/Class-Controlling_Copy-Paste_Augmentation_for_Nuclear_Segmentation.pdf)) |  Cell Instance Segmentation | 해외학회논문(ISBI 2022) | 1st Author |
-2            | [CoNIC Challenge: Pushing the Frontiers of Nuclear Detection, Segmentation, Classification and Counting](https://arxiv.org/abs/2303.06274)) |  Cell Instance Segmentation | - | 3rd Author |
+2            | [CoNIC Challenge: Pushing the Frontiers of Nuclear Detection, Segmentation, Classification and Counting](https://arxiv.org/abs/2303.06274) |  Cell Instance Segmentation |  | 3rd Author |
 3            | 준지도학습 기반 병리이미지 내 세포 검출 | Segmentation Using Semi-Supervised Learning | 석사학위논문 | 1st Author |
 4            | Automatic CK Image Generation using pix2pix with data-specific loss | GAN&Image Registration | 국내학회논문(한국데이터정보과학회) | 1st Author |
 
